@@ -22,17 +22,17 @@
     "url": "https://api.ciallovo.top",
     "icon": "https://icons.duckduckgo.com/ip3/api.ciallovo.top.ico",
     "slug": "ciallo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 348,
-    "timeWeek": 348,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   }
 ]
