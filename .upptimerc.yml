@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "喵喵喵喵"
-  introMessage: [项目仓库喵](https://github.com/upptime/upptime)
+  introMessage: "[项目仓库喵](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
       href: /
