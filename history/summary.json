@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 182,
+    "timeDay": 182,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ciallovo.top.ico",
     "slug": "ciallo-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "87.93%",
+    "uptimeDay": "87.93%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "87.93%",
+    "uptimeYear": "87.93%",
     "time": 241,
     "timeDay": 241,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-14": 116,
+      "2026-08-13": 23
+    }
   }
 ]
