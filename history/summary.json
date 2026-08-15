@@ -22,21 +22,21 @@
     "url": "https://api.ciallovo.top",
     "icon": "https://icons.duckduckgo.com/ip3/api.ciallovo.top.ico",
     "slug": "ciallo-api",
-    "status": "down",
-    "uptime": "62.86%",
-    "uptimeDay": "29.52%",
-    "uptimeWeek": "62.86%",
-    "uptimeMonth": "62.86%",
-    "uptimeYear": "62.86%",
-    "time": 394,
-    "timeDay": 510,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "status": "up",
+    "uptime": "60.35%",
+    "uptimeDay": "19.42%",
+    "uptimeWeek": "60.35%",
+    "uptimeMonth": "60.35%",
+    "uptimeYear": "60.35%",
+    "time": 388,
+    "timeDay": 476,
+    "timeWeek": 388,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2026-08-14": 270,
       "2026-08-13": 23,
-      "2026-08-15": 1006
+      "2026-08-15": 1151
     }
   }
 ]
