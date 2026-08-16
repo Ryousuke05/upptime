@@ -7,6 +7,8 @@ sites:
     url: https://ciallovo.top
   - name: ciallo-api
     url: https://api.ciallovo.top
+  - name: ciallo-api-bak1
+    url: https://api1.ciallovo.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
