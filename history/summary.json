@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ciallovo.top.ico",
     "slug": "ciallo-api",
     "status": "up",
-    "uptime": "62.16%",
-    "uptimeDay": "33.12%",
-    "uptimeWeek": "62.16%",
-    "uptimeMonth": "62.16%",
-    "uptimeYear": "62.16%",
+    "uptime": "61.46%",
+    "uptimeDay": "28.03%",
+    "uptimeWeek": "61.46%",
+    "uptimeMonth": "61.46%",
+    "uptimeYear": "61.46%",
     "time": 363,
     "timeDay": 294,
     "timeWeek": 363,
@@ -38,7 +38,7 @@
       "2026-08-13": 23,
       "2026-08-15": 1151,
       "2026-08-16": 24,
-      "2026-08-17": 963
+      "2026-08-17": 1036
     }
   },
   {
@@ -46,17 +46,19 @@
     "url": "https://api1.ciallovo.top",
     "icon": "https://icons.duckduckgo.com/ip3/api1.ciallovo.top.ico",
     "slug": "ciallo-api-bak1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 1145,
-    "timeWeek": 1232,
-    "timeMonth": 1232,
-    "timeYear": 1232,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1082,
+    "timeDay": 964,
+    "timeWeek": 1082,
+    "timeMonth": 1082,
+    "timeYear": 1082,
+    "dailyMinutesDown": {
+      "2026-08-17": 0
+    }
   }
 ]
