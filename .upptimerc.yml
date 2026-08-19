@@ -9,6 +9,12 @@ sites:
     url: https://api.ciallovo.top
   - name: ciallo-api-bak1
     url: https://api1.ciallovo.top
+  - name: transcircle.org
+    url: https://transcircle.org
+  - name: story.transcircle.org
+    url: https://story.transcircle.org
+  - name: community.transcircle.org
+    url: https://community.transcircle.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
