@@ -2,6 +2,10 @@
 owner: Ryousuke05 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+secrets:
+  - TRANSCIRCLE_BACKEND
+  - TRANSCIRCLE_IAM
+
 sites:
   - name: wuxiao-web
     url: https://ciallovo.top
