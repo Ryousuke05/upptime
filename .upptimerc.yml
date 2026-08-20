@@ -16,9 +16,9 @@ sites:
   - name: community.transcircle.org
     url: https://community.transcircle.org
   - name: transcircle backend
-    url: ${{ secrets.TRANSCIRCLE_BACKEND }}
+    url: $TRANSCIRCLE_BACKEND
   - name: transcircle iam
-    url: ${{ secrets.TRANSCIRCLE_IAM }}
+    url: $TRANSCIRCLE_IAM
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
