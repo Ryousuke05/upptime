@@ -48,7 +48,7 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           # Configure the secret allowlist in .upptimerc.yml; do not edit this workflow directly.
-          SECRETS_CONTEXT: '{"TRANSCIRCLE_BACKEND":${{ toJson(secrets.TRANSCIRCLE_BACKEND) }},"TRANSCIRCLE_IAM":${{ toJson(secrets.TRANSCIRCLE_IAM) }}}'
+          SECRETS_CONTEXT: '{"TRANSCIRCLE_STORY_BACKEND":${{ toJson(secrets.TRANSCIRCLE_STORY_BACKEND) }},"TRANSCIRCLE_PASS_BACKEND":${{ toJson(secrets.TRANSCIRCLE_PASS_BACKEND) }},"TRANSCIRCLE_IAM":${{ toJson(secrets.TRANSCIRCLE_IAM) }}}'
       - name: Update summary in README
         uses: upptime/uptime-monitor@v1.43.15
         with:
