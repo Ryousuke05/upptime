@@ -19,8 +19,10 @@ sites:
     url: https://story.transcircle.org
   - name: community.transcircle.org
     url: https://community.transcircle.org
-  - name: transcircle backend
-    url: $TRANSCIRCLE_BACKEND
+  - name: transcircle story
+    url: $TRANSCIRCLE_STORY_BACKEND
+  - name: transcircle pass
+    url: $TRANSCIRCLE_PASS_BACKEND
   - name: transcircle iam
     url: $TRANSCIRCLE_IAM
 
