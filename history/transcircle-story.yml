@@ -1,7 +1,7 @@
 url: $TRANSCIRCLE_STORY_BACKEND
-status: up
-code: 200
-responseTime: 301
-lastUpdated: 2026-08-20T23:22:00.813Z
+status: down
+code: 502
+responseTime: 235
+lastUpdated: 2026-08-21T07:02:29.491Z
 startTime: 2026-08-20T16:05:38.438Z
 generator: Upptime <https://github.com/upptime/upptime>
